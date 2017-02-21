@@ -1,18 +1,18 @@
 # ---------------------------------------
 # Author
-# 	Piotr Górecki @ 2017
+#		Piotr Górecki @ 2017
 # ---------------------------------------
 # Setup environment
 #		install.packages('VennDiagram')
 # ---------------------------------------
 # Usage
-# 	$ R < plot_venn.R --no-save
+#		$ R < plot_venn.R --no-save
 # ---------------------------------------
 # resources:
-# 	https://cran.r-project.org/web/packages/VennDiagram/VennDiagram.pdf
-# 	https://rstudio-pubs-static.s3.amazonaws.com/13301_6641d73cfac741a59c0a851feb99e98b.html
-#	  http://www.statmethods.net/advgraphs/parameters.html
-# 	https://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/png.html
+#		https://cran.r-project.org/web/packages/VennDiagram/VennDiagram.pdf
+#		https://rstudio-pubs-static.s3.amazonaws.com/13301_6641d73cfac741a59c0a851feb99e98b.html
+#		http://www.statmethods.net/advgraphs/parameters.html
+#		https://stat.ethz.ch/R-manual/R-devel/library/grDevices/html/png.html
 # ---------------------------------------
 
 # load library
